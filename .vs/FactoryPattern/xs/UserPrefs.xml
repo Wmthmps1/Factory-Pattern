@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5A98575E-259D-42D8-8848-50B7F850108D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryPattern/VehicleFactory.cs">
+    <Files>
+      <File FileName="FactoryPattern/Program.cs" Line="7" Column="41" />
+      <File FileName="FactoryPattern/IVehicle.cs" Line="8" Column="2" />
+      <File FileName="FactoryPattern/Car.cs" Line="5" Column="3" />
+      <File FileName="FactoryPattern/Truck.cs" Line="4" Column="31" />
+      <File FileName="FactoryPattern/Motorcycle.cs" Line="4" Column="36" />
+      <File FileName="FactoryPattern/VehicleFactory.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryPattern">
+            <Node name="FactoryPattern">
+              <Node name="VehicleFactory.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FactoryPattern PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
